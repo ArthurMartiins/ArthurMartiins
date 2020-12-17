@@ -1,6 +1,5 @@
 <p align="center">
   ![Welcome](/github-profile-header.png?raw=true)
-  <samp>
     I'm Arthur Martins 
     <br><br>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
@@ -11,7 +10,6 @@
      <br><br>
     Contact-me on:
     [gmail] arthurmzimmermann@gmail.com
-  </samp>
 </p>
 
 
