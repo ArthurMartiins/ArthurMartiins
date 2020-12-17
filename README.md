@@ -1,13 +1,13 @@
-
+![Welcome](https://github.com/ArthurMartiins/ArthurMartiins/raw/main/github-profile-header.png)
 <p align="center">
     I'm Arthur Martins 
-    <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
-    <br><br>
+    <br>
+    I work as a Web :globe_with_meridians: developer!
+    <br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
-    <br><br>
+    <br>
     P.S. I do know that HTML is not a programming language! :v: 
-     <br><br>
+     <br>
     Contact-me on:
     [gmail] arthurmzimmermann@gmail.com
 </p>
@@ -33,7 +33,5 @@
 ---
 
 </p>
-
-
 
 </details>
