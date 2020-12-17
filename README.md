@@ -1,15 +1,32 @@
 ### Hi there 👋
 
-My name is Arthur Martins and I'm experienced (+1 year) fullstack developer living in Brazil and working remotely.
-Contact-me on: </br>
-[gmail] arthurmzimmermann@gmail.com
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Arthur Martins :wave:
+    <br><br>
+    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    <br><br>
+    I believe in a world where Milkshakes can solve any and all problems :grin:
+    <br><br>
+    P.S. I do know that HTML is not a programming language! :v:
+    Contact-me on: </br>
+    [gmail] arthurmzimmermann@gmail.com
+  </samp>
+</p>
+
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### - Languages and Tools...
 
 <p align="center">
-
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -20,3 +37,7 @@ Contact-me on: </br>
 ---
 
 </p>
+
+
+
+</details>
