@@ -1,6 +1,6 @@
 <p align="center">
+  ![Welcome](/github-profile-header.png?raw=true)
   <samp>
-    ![Welcome](/github-profile-header.png?raw=true)
     I'm Arthur Martins 
     <br><br>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
