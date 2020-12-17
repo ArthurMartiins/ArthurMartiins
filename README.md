@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
   <samp>
     I'm Arthur Martins :wave:
     <br><br>
@@ -22,7 +20,7 @@
   
   <br>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Arthur Martins github stats](https://github-readme-stats.vercel.app/api?username=arthurmartiins&show_icons=true&theme=radical)
 
 ### - Languages and Tools...
 
