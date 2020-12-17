@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Arthur Martins and I'm experienced (+1 year) fullstack developer living in Brazil and working remotely.
-Contact-me on:
+Contact-me on: </br>
 [gmail] arthurmzimmermann@gmail.com
 
 ### - Languages and Tools...
