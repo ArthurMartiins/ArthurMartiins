@@ -1,4 +1,4 @@
-![Welcome](/github-profile-header.png?raw=true)
+
 <p align="center">
     I'm Arthur Martins 
     <br><br>
