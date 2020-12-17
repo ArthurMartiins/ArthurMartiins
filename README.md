@@ -1,10 +1,8 @@
-
+ ### Hi there 👋
 
 <p align="center">
-  ### Hi there
-    <br>
   <samp>
-    I'm Arthur Martins 👋
+    I'm Arthur Martins 
     <br><br>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
     <br><br>
