@@ -1,4 +1,4 @@
-![Welcome](https://github.com/ArthurMartiins/ArthurMartiins/raw/main/github-profile-header.png)
+![Welcome](https://github.com/ArthurMartiins/ArthurMartiins/raw/main/profile-header.png)
 <p align="center">
     I'm Arthur Martins 
     <br>
