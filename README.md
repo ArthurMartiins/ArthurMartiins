@@ -1,8 +1,10 @@
 <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"/>
 <p>I'm Arthur Martins</p>
 <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmartiins&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartiins&layout=compact&theme=radical" />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmartiins&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartiins&layout=compact&theme=radical"/>
+</div>
   
 ### - Languages and Tools...
 
