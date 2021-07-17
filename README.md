@@ -1,4 +1,4 @@
-![Welcome](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="150px"/>
 <p>
     I'm Arthur Martins 
     <br>
