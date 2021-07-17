@@ -1,35 +1,17 @@
 <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"/>
-<p>
-    I'm Arthur Martins 
-    <br>
-    I work as a Web :globe_with_meridians: developer!
-    <br>
-    I believe in a world where Milkshakes can solve any and all problems :grin:
-    <br>
-    P.S. I do know that HTML is not a programming language! :v: 
-     <br>
-    Contact-me on: <br>
-    [gmail] arthurmzimmermann@gmail.com
-</p>
+<p>I'm Arthur Martins</p>
 <br>
   
   ![Arthur Martins github stats](https://github-readme-stats.vercel.app/api?username=arthurmartiins&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartiins&layout=compact&theme=radical)
-
   
-
-
 ### - Languages and Tools...
 
-<p align="center">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="js"/>
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
-</p>
-
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+</div>
