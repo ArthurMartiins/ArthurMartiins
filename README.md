@@ -11,13 +11,11 @@
     Contact-me on: <br>
     [gmail] arthurmzimmermann@gmail.com
 </p>
-
-
-<details>
-
-  <br>
+<br>
   
   ![Arthur Martins github stats](https://github-readme-stats.vercel.app/api?username=arthurmartiins&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartiins&langs_count=8)]
+
 
 ### - Languages and Tools...
 
@@ -32,4 +30,4 @@
 
 </p>
 
-</details>
+
