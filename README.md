@@ -1,4 +1,4 @@
-![Welcome](https://github.com/ArthurMartiins/ArthurMartiins/raw/main/profile-header.png)
+![Welcome](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 <p align="center">
     I'm Arthur Martins 
     <br>
