@@ -1,5 +1,5 @@
 ![Welcome](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
-<p align="center">
+<p>
     I'm Arthur Martins 
     <br>
     I work as a Web :globe_with_meridians: developer!
