@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="150px"/>
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"/>
 <p>
     I'm Arthur Martins 
     <br>
