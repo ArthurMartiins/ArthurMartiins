@@ -18,8 +18,10 @@
   
 </div>
 
-<div>
 ## Where to find me
+
+<div>
+
  
 [![Instagram Badge](https://img.shields.io/badge/-instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/_martiinszi/)](https://www.instagram.com/_martiinszi/)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-martinszi/)](https://www.linkedin.com/in/arthur-martinszi/)
