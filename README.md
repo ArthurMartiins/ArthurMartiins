@@ -14,7 +14,9 @@
 <br>
   
   ![Arthur Martins github stats](https://github-readme-stats.vercel.app/api?username=arthurmartiins&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartiins&langs_count=8)]
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmartiins&layout=compact&theme=radical)
+
+  
 
 
 ### - Languages and Tools...
