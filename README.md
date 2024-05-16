@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200px"/>
+<img src="https://giphy.com/gifs/vintage-horror-cartoon-RwLDkna2fN3fG" width="200px"/>
 <p>I'm Arthur Martins</p>
 <div>
   <a href="https://github.com/ArthurMartiins">
