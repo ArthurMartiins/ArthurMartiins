@@ -1,4 +1,5 @@
-<img src="https://giphy.com/embed/RwLDkna2fN3fG"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXUwOGY5N2RybzNqNDYzcWJ6NnM2dW1yMTh1ZzIyZWZqeTVqNHowdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RwLDkna2fN3fG/giphy.gif" />
 <p>I'm Arthur Martins</p>
 <div>
   <a href="https://github.com/ArthurMartiins">
